@@ -13,6 +13,8 @@ tp_maps with Emscripten for use in a web page.
 tp_maps with SDL2. 
 * [example_maps_wx](https://github.com/tdp-libs/example_maps_wx) An example of using tp_maps in 
 wxWidgets. 
+* [example_maps_qt](https://github.com/tdp-libs/example_maps_qt) An example of using tp_maps in a
+Qt widgets application. 
 * [example_maps_headless](https://github.com/tdp-libs/example_maps_headless) Headless OpenGL 
 rendering using tp_maps. 
 * [example_maps_fps](https://github.com/tdp-libs/example_maps_fps) An example of how to use tp_maps 
